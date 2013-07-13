@@ -1,0 +1,23 @@
+{
+    "name": "taketumblr",
+    "title": "TakeTumblr: jQuery plugin to get Tumblr posts by tag and display them on your site.",
+    "description": "Specify an API key, a tag, and what field to sort by, and you're off. The plugin will get the URL, title, date, and description of each post. It also checks each post's Facebook likes and shares, tweets, and Tumblr notes to create a sortable popularity field.",
+    "keywords": ["tumblr","social", "cms"],
+    "version": "0.0.1",
+    "author": {
+        "name": "Keith Collins",
+        "url": "http://www.keithcollins.net/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/keithcollins/jquery.taketumblr/blob/master/License.txt"
+        }
+    ],
+    "homepage": "http://www.keithcollins.net/",
+    "docs": "http://github.com/keithcollins/jquery.taketumblr/",
+    "demo": "http://www.keithcollins.net/",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
