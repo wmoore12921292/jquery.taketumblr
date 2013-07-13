@@ -9,6 +9,8 @@ POST TYPES:
 
 TakeTumblr can currently take these types of posts: text, links, photo, audio, video. I don't use the other types of posts, like chats or quotes, but they would be pretty easy to add if you'd like to add them. 
 
+Note - For photo, audio, and video posts, the embed object is taken as the body, and the caption as the title.
+
 USAGE: 
 
 See demo.html
